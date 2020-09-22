@@ -1,2 +1,2 @@
-# QuanFinance
+# QuantFinance
 Coding financial models
